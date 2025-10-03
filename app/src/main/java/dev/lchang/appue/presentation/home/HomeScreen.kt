@@ -177,7 +177,7 @@ fun HomeScreen() {
                     .align(Alignment.TopCenter)
                     .background(
                         Brush.verticalGradient(
-                            listOf(Color.Black, Color.Transparent)
+                            listOf(Color.Black, Color.Transparent) //
                         )
                     )
             )
