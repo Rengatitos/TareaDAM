@@ -52,12 +52,8 @@ val Musica = listOf(
 @Composable
 fun HomeScreen() {
 
-    //img fondo
     val headerImg = "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=1600&auto=format&fit=crop"
 
-
-
-    // mis colores rosa
     val Pink = Color(0xFFA8B7FF)
     val PinkDark = Color(0xFF111A79)
     val PinkSoft = Color(0xFF9AB6D9)
